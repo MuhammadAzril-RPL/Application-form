@@ -1,16 +1,21 @@
-# flutter_application_form
+# Aplikasi Daftar Kontak Flutter
 
-A new Flutter project.
+Aplikasi ini adalah aplikasi Flutter yang memungkinkan pengguna untuk melihat daftar kontak, menambah kontak baru, serta melakukan operasi edit dan hapus pada kontak.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+1. **Halaman Utama**:
+   - Menampilkan daftar kontak dengan nama, nomor telepon, dan akun media sosial (Facebook, Instagram).
+   - Menampilkan gambar profil kontak.
+   - Tersedia tombol untuk menambah kontak baru.
 
-A few resources to get you started if this is your first Flutter project:
+2. **Menambah Kontak**:
+   - Pengguna dapat menambah kontak baru melalui formulir input yang dapat diakses dengan menekan tombol tambah (+) di bagian bawah layar.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cara Menggunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Jalankan aplikasi Flutter.
+2. Pada halaman utama, Anda akan melihat daftar kontak yang telah ada.
+3. Tekan tombol "+" di bagian bawah untuk menambah kontak baru.
+4. Isi formulir input untuk menambahkan nama, nomor telepon, Facebook, dan Instagram.
+5. Setelah berhasil, data kontak akan ditampilkan di halaman utama.
